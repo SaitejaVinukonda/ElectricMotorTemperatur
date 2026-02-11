@@ -1,4 +1,8 @@
 data/
 *.csv
 __pycache__/
+<<<<<<< HEAD
+=======
+*.pkl
+>>>>>>> 91a51f62fb75dabcb8f68f2aca8f82aa3d523bc8
 .env
